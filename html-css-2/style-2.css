@@ -1,0 +1,159 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.row{
+    width: 100vw;
+    height: 10vh;
+    background-color: rgb(60, 250, 202);
+}
+
+h1{
+    font-size: 30px;
+    font-weight: bold;
+    margin: 15px;
+    padding: 20px 10px;
+}
+
+h2{
+    font-size: large;
+    font-weight: bold;
+    margin: 0px 10px;
+    margin-top: 20px;
+}
+
+.box{
+    border: 1px dotted black;
+    box-sizing: border-box;
+    padding: 10px;
+    margin: 0px 10px;
+}
+
+.purpleRectangle{
+    display: inline-block;
+    background-color: rgb(65, 10, 90);
+    box-sizing: border-box;
+    border: rgb(168, 2, 2) solid;
+    width: 150px;
+    height: 75px
+}
+
+.blueBox{
+    display: inline-block;
+    box-sizing: border-box;
+    background-color: rgb(66, 66, 255);
+    border: black 1px solid;
+    width: 75px;
+    height: 75px;
+    box-shadow: 5px 5px 5px 0 black ;
+    margin: 0px 20px;
+}
+
+.pinkBox{
+    display: inline-block;
+    box-sizing: border-box;
+    background-color: rgb(192, 110, 124);
+    border: black 1px solid;
+    width: 150px;
+    height: 150px;
+
+}
+
+.circle1{
+    border-radius: 50%;
+    height: 60px;
+    width: 60px;
+    background-color: white;
+    border: black solid 1px;
+    margin: 0px 30px;
+}
+
+.coal1{
+    width: 10px;
+    height: 10px;
+    transform: rotate(120deg);
+    margin-top: 20px;
+    margin-left: 10px;
+    display: inline-block;
+}
+
+.carrot{
+    width: 17px;
+    height: 17px;
+    margin-left: 15px;
+}
+
+.circle2{
+    border-radius: 50%;
+    height: 90px;
+    width: 90px;
+    background-color: white;
+    border: black solid 1px;
+    margin: 0px 15px;
+}
+
+.circle3{
+    border-radius: 50%;
+    height: 120px;
+    width: 120px;
+    background-color: white;
+    border: black solid 1px;
+}
+
+.coal2{
+    width: 10px;
+    height: 10px;
+    transform: rotate(120deg);
+    margin: 8px 0px;
+    margin-left: 40px;
+}
+
+.box4{
+    display: inline-block;
+    box-sizing: border-box;
+    background-color: rgb(244, 247, 225);
+    border: black 1px solid;
+    width: 200px;
+    height: 200px;
+}
+
+.circle4{
+    border-radius: 50%;
+    height: 160px;
+    width: 160px;
+    background-color: rgb(20, 114, 16);
+    border: black solid 1px;
+}
+
+.box5{
+    display: inline-block;
+    box-sizing: border-box;
+    background-color: rgb(131, 48, 9);
+    width: 105px;
+    height: 105px;
+    text-align: center;
+    margin: 28px;
+    
+}
+
+.circle5{
+    border-radius: 50%;
+    height: 80px;
+    width: 80px;
+    background-color: rgb(48, 48, 214);
+}
+
+.fishtank{
+    color: white;
+    font-size: 15px;
+}
+
+.goldfish{
+    width: 40px;
+    padding: 20px;
+    clear: both;
+}
+
+
+
